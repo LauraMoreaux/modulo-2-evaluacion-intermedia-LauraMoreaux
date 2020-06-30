@@ -3,7 +3,20 @@
   margin: 0;
   padding: 0; }
 
-* {
-  background-color: pink; }
+.main {
+  height: 100vh;
+  width: 100%;
+  padding: 400px;
+  background-color: lightcoral;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.div-style {
+  display: inline-block;
+  border: 3px solid grey;
+  background-color: lightpink;
+  margin-top: 20px; }
 
 /*# sourceMappingURL=main.css.map */
